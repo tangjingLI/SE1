@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="LeftRotateString" />
+        <module name="FindLongestElement" />
+        <module name="PerfectNumber" />
+        <module name="Base7" />
+        <module name="IntersectionOfTwoArraysII" />
+        <module name="CountingBits" />
+        <module name="Exercise054-FindNumInArray" />
+        <module name="BestTimeToBuyAndSellStockII" />
+        <module name="Exercise062-DifferentCharCount" />
+        <module name="LongestCommonPrefix" />
+        <module name="IsomorphicStrings" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Base7" target="1.8" />
+      <module name="BestTimeToBuyAndSellStockII" target="1.8" />
+      <module name="CountingBits" target="1.8" />
+      <module name="Exercise054-FindNumInArray" target="1.8" />
+      <module name="Exercise062-DifferentCharCount" target="1.8" />
+      <module name="FindLongestElement" target="1.8" />
+      <module name="IntersectionOfTwoArraysII" target="1.8" />
+      <module name="IsomorphicStrings" target="1.8" />
+      <module name="LeftRotateString" target="1.8" />
+      <module name="LongestCommonPrefix" target="1.8" />
+      <module name="PerfectNumber" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

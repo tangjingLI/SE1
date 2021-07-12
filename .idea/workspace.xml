@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0cf56a9-7894-46d4-8b00-af3dbd804c8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lab11/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework07/68b94d08ad824b6aabafb3d0dcc3b200/147-matrix-calculation/src/main/java/edu/nju/MatrixCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework07/68b94d08ad824b6aabafb3d0dcc3b200/147-matrix-calculation/src/main/java/edu/nju/MatrixCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab08/162-grades-histogram/src/main/java/GradesHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab08/162-grades-histogram/src/main/java/GradesHistogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab09/9fa5488588f04f1b8f2f07f3e720bae5/222-grammarlessons/src/main/java/GrammarLessons.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab09/9fa5488588f04f1b8f2f07f3e720bae5/222-grammarlessons/src/main/java/GrammarLessons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/9723c0c9d35d4332922932da7ccc74fd/148-my-matrix/src/main/java/MyMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/9723c0c9d35d4332922932da7ccc74fd/148-my-matrix/src/main/java/MyMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/143-square-board/src/main/java/SquareBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/143-square-board/src/main/java/SquareBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/144-string-addition/src/main/java/StringAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/144-string-addition/src/main/java/StringAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/145-sum-and-average/src/main/java/SumAndAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/145-sum-and-average/src/main/java/SumAndAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/146-time-table/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/146-time-table/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/146-time-table/src/main/java/TimeTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/146-time-table/src/main/java/TimeTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/151-get-odd-index-array/src/main/java/GetOddIndexArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/151-get-odd-index-array/src/main/java/GetOddIndexArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/153-all-odds-in-ten/src/main/java/AllOddsInTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/153-all-odds-in-ten/src/main/java/AllOddsInTen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/154-arithmetic/src/main/java/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/154-arithmetic/src/main/java/Arithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/155-array-visit/src/main/java/ArrayVisit.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/155-array-visit/src/main/java/ArrayVisit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/157-contains-duplicate/src/main/java/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/157-contains-duplicate/src/main/java/ContainsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/159-disappeared-numbers/src/main/java/DisappearedNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup03/cfe7902238fa435b83dc12c61c4c43fd/159-disappeared-numbers/src/main/java/DisappearedNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/262-intersection-of-two-arrays-ii/src/main/java/._IntersectionOfTwoArraysII.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/262-intersection-of-two-arrays-ii/src/main/java/._IntersectionOfTwoArraysII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/262-intersection-of-two-arrays-ii/src/main/java/IntersectionOfTwoArraysII.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/262-intersection-of-two-arrays-ii/src/main/java/IntersectionOfTwoArraysII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/263-isomorphic-strings/src/main/java/._IsomorphicStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/263-isomorphic-strings/src/main/java/._IsomorphicStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/263-isomorphic-strings/src/main/java/IsomorphicStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/263-isomorphic-strings/src/main/java/IsomorphicStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/265-left-rotate-string/src/main/java/._LeftRotateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/265-left-rotate-string/src/main/java/._LeftRotateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/265-left-rotate-string/src/main/java/LeftRotateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/265-left-rotate-string/src/main/java/LeftRotateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/266-longest-common-prefix/src/main/java/._LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/266-longest-common-prefix/src/main/java/._LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/266-longest-common-prefix/src/main/java/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/266-longest-common-prefix/src/main/java/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/274-perfect-number/src/main/java/._PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/274-perfect-number/src/main/java/._PerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/274-perfect-number/src/main/java/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/274-perfect-number/src/main/java/PerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/291-base7/src/main/java/Base7.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/291-base7/src/main/java/Base7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/293-besttimetobuyandsellstockii/src/main/java/BestTimeToBuyAndSellStockII.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/293-besttimetobuyandsellstockii/src/main/java/BestTimeToBuyAndSellStockII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/296-countingbits/src/main/java/CountingBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/296-countingbits/src/main/java/CountingBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/299-differentcharcount/src/main/java/nju/edu/software/Exercise062_DifferentCharCount/DifferentCharCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/299-differentcharcount/src/main/java/nju/edu/software/Exercise062_DifferentCharCount/DifferentCharCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/302-findlongestelement/src/main/java/nju/edu/software/Exercise051_FindLongestElement/FindLongestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/302-findlongestelement/src/main/java/nju/edu/software/Exercise051_FindLongestElement/FindLongestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warmup04/303-findnuminarray/src/main/java/nju/edu/software/Exercise054_FindNumInArray/FindNumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/warmup04/303-findnuminarray/src/main/java/nju/edu/software/Exercise054_FindNumInArray/FindNumInArray.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/homework07/68b94d08ad824b6aabafb3d0dcc3b200" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myjavatest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/myjavatest" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0cf56a9-7894-46d4-8b00-af3dbd804c8d" name="Default Changelist" comment="" />
+      <created>1558107093803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558107093803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/myjavatest.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/291-base7/Base7.iml" filepath="$PROJECT_DIR$/291-base7/Base7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/293-besttimetobuyandsellstockii/BestTimeToBuyAndSellStockII.iml" filepath="$PROJECT_DIR$/293-besttimetobuyandsellstockii/BestTimeToBuyAndSellStockII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/296-countingbits/CountingBits.iml" filepath="$PROJECT_DIR$/296-countingbits/CountingBits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/303-findnuminarray/Exercise054-FindNumInArray.iml" filepath="$PROJECT_DIR$/303-findnuminarray/Exercise054-FindNumInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/299-differentcharcount/Exercise062-DifferentCharCount.iml" filepath="$PROJECT_DIR$/299-differentcharcount/Exercise062-DifferentCharCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/302-findlongestelement/FindLongestElement.iml" filepath="$PROJECT_DIR$/302-findlongestelement/FindLongestElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/262-intersection-of-two-arrays-ii/IntersectionOfTwoArraysII.iml" filepath="$PROJECT_DIR$/262-intersection-of-two-arrays-ii/IntersectionOfTwoArraysII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/263-isomorphic-strings/IsomorphicStrings.iml" filepath="$PROJECT_DIR$/263-isomorphic-strings/IsomorphicStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/265-left-rotate-string/LeftRotateString.iml" filepath="$PROJECT_DIR$/265-left-rotate-string/LeftRotateString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/266-longest-common-prefix/LongestCommonPrefix.iml" filepath="$PROJECT_DIR$/266-longest-common-prefix/LongestCommonPrefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/274-perfect-number/PerfectNumber.iml" filepath="$PROJECT_DIR$/274-perfect-number/PerfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/warmup04.iml" filepath="$PROJECT_DIR$/.idea/warmup04.iml" />
+    </modules>
+  </component>
+</project>
